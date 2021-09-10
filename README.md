@@ -1,1 +1,1 @@
-Assisted reproduction super ovulation system (Based on NN)
+Assisted reproduction super ovulation system
